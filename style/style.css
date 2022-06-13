@@ -1,0 +1,48 @@
+.header {
+background-color:azure;
+}
+
+.image {
+    width: 20%;
+    padding: 10px;
+    margin: 10px; 
+}
+.contacts {
+    padding: 20px;
+    width: 40%;
+    text-align: right;
+}
+h1 {
+    font-size: 16px;
+    color:rgb(76, 99, 99);
+    text-align: center;
+}
+h2 {
+    font-size: 16px;
+    color:rgb(76, 99, 99);
+}
+p {
+    font-size: 12px;
+    color: black;
+}
+ul{
+    font-size: 12px;
+
+}
+.code{
+    font-size: 12px;
+    background-color: rgb(186, 186, 186);
+    width: 500px;
+    height: 200px;
+}
+.footer_part {
+    float: left;
+    line-height: 100px;
+    font-size: 20px;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    text-align: center;
+    background-color:azure;
+}
